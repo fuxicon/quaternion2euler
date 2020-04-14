@@ -1,2 +1,2 @@
-# quaternion2euler
-Convert quaternion to Euler angles
+# quaternion2euler()
+Matlab function to convert quaternion to Euler angles
